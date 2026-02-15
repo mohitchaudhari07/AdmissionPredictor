@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar";
 import Register from "../pages/Register";
 import CollegeResults from "../pages/CollegeResults";
 import Results from "../pages/Results";
-import AskAI from "../pages/AskAi";
+import AskAI from "../pages/AskAI";
 import About from "../pages/About";
 import Contact from "../pages/Contact";
 
